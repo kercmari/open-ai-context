@@ -1,0 +1,66 @@
+[
+    {
+        "especializacion": "Psicología",
+        "descripcion": "Rama especializada en el estudio de la mente y el comportamiento humano."
+    },
+    {
+        "especializacion": "Fisioterapia",
+        "descripcion": "Disciplina sanitaria que se enfoca en la prevención y tratamiento de lesiones y enfermedades a través del movimiento y ejercicio."
+    },
+    {
+        "especializacion": "Enfermería",
+        "descripcion": "Profesión dedicada al cuidado y atención de pacientes, promoviendo la salud y asistiendo en tratamientos médicos."
+    },
+    {
+        "especializacion": "Medicina General",
+        "descripcion": "Área médica que abarca el diagnóstico, tratamiento y prevención de enfermedades en pacientes de todas las edades."
+    },
+    {
+        "especializacion": "Sexología",
+        "descripcion": "Especialidad que se centra en el estudio de la sexualidad humana y sus trastornos para brindar orientación y tratamiento."
+    },
+    {
+        "especializacion": "Alergología",
+        "descripcion": "Estudia la alergia y sus manifestaciones, como patologías debidas a la activación de los mecanismos de autoinmunidad"
+    },
+    {
+        "especializacion": "Anestesiología",
+        "descripcion": "Ofrece atención y cuidados especiales a pacientes intervenidos quirúrgicamente o en otros procesos médicos que puedan generar dolor o molestias, además de encargarse de la recuperación del paciente durante el postoperatorio"
+    },
+    {
+        "especializacion": "Medicina del trabajo",
+        "descripcion": "Rama médica que estudia y trata las enfermedades que ocurren en los puestos de trabajo, además de influir en los protocolos de prevención de este tipo de lesiones"
+    },
+    {
+        "especializacion": "Medicina de urgencias",
+        "descripcion": "Rama médica que actúa sobre enfermedades que suponen una emergencia, pudiendo poner en peligro a corto plazo la vida del paciente y requiriendo una intervención inmediata"
+    },
+    {
+        "especializacion": "Medicina familiar comunitaria",
+        "descripcion": "Rama médica que mantiene la salud en todos los aspectos, abordando el estudio y tratamiento del cuerpo humano de forma holística, con enfoque en la atención primaria en salud"
+    },
+    {
+        "especializacion": "Medicina física y rehabilitación",
+        "descripcion": "Rama médica que promociona la salud estableciendo como prioritario el logro de funcionalidad ergonómica, ocupacional y reintegración social de personas que sufren algún tipo de enfermedad motriz incapacitante"
+    },
+    {
+        "especializacion": "Medicina intensiva",
+        "descripcion": "Rama médica que suministra soporte vital a aquellas personas que están críticamente enfermas, necesitando supervisión constante y monitorización"
+    },
+    {
+        "especializacion": "oftalmología",
+        "descripcion": "se encarga de estudiar los desórdenes y enfermedades que pueden darse en el globo ocular, su musculatura, los parpados, el sistema lagrimal"
+    },
+    {
+        "especializacion": "oncología",
+        "descripcion": "se encarga de centrarse en la atención hacia el enfermo de cáncer, además de los tratamientos destinados a enfermedades oncológicas como la quimioterapia, las terapias con hormonas y fármacos contra esta enfermedad"
+    },
+    {
+        "especializacion": "Angiología y cirugía vascular",
+        "descripcion": "Se encarga del diagnóstico y tratamiento de enfermedades exclusivamente debidas a problemas en los vasos sanguíneos, es decir, venas y arterias, excluyendo tanto al corazón como a las arterias intracraneales"
+    },
+    {
+        "especializacion": "Dermatología",
+        "descripcion": "Se encarga del estudio y tratamiento de los problemas en la piel y estructura tegumentaria, es decir, las uñas y el cabello"
+    }
+]

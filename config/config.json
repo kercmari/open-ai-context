@@ -1,0 +1,20 @@
+{
+    "path_new": "./data/data2.json",
+    "pregunta": "Extrae me especialidades médicas, listado con dos key especializacion y descripcion, cada key con su respectivo valor",
+    "rules": [
+        "Be concise",
+        "Maximum 270 tokens or 1100 response characters",
+        "You are a wizard that generates lists of JSON objects. Provides a continuous list of JSON objects within a single set of square brackets. Make sure the listing and each JSON object are properly closed!",
+        "You are an expert at extracting and interpreting information based on all the context"
+    ],
+    "formats": [
+        "El objeto debe tener el formato  [{'keyOne': value, 'keyTow': value.. },{'keyOne': value, 'keyTow': value.. }]"
+    ],
+    "max_tokens": 3048,
+    "max_response_tokens": 300,
+    "n": 1,
+    "temperature": 0.5,
+    "limit": 5,
+    "indexRead": 5,
+    "typeFormat": "JSON"
+}

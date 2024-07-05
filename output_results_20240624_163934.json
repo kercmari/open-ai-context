@@ -1,0 +1,82 @@
+[
+    {
+        "especializacion": "Alergología",
+        "descripcion": "Estudia la alergia, sus manifestaciones, es decir, patologías debidas a la activación de los mecanismos de autoinmunidad"
+    },
+    {
+        "especializacion": "Anestesiología y Reanimaciones",
+        "descripcion": "Ofrece atención y cuidados especiales a pacientes que van a ser intervenidos quirúrgicamente u otros procesos médicos que pueden generar cierto grado de dolor o molestias, también se encarga de la recuperación del paciente durante el postoperatorio ayudándole a recobrar la consciencia"
+    },
+    {
+        "especializacion": "Cardiología",
+        "descripcion": "Estudia, diagnostica, trata las enfermedades del corazón y el aparato circulatorio, esta especialidad lo hace sin recurrir a la cirugía"
+    },
+    {
+        "especializacion": "Geriatría",
+        "descripcion": "Se encarga de la prevención, diagnóstico, tratamiento y rehabilitación de las personas de edad avanzada aquejadas de enfermedades asociadas a la vejez"
+    },
+    {
+        "especializacion": "Hematología",
+        "descripcion": "Trata las enfermedades relacionadas con la sangre, ya sea por su mala calidad o por el mal funcionamiento de los órganos que la producen como la médula ósea"
+    },
+    {
+        "especializacion": "Medicina Legal Forense",
+        "descripcion": "Disciplina que aplica conocimientos médicos biológicos para resolver problemas legales"
+    },
+    {
+        "especializacion": "Medicina Preventiva y Salud Pública",
+        "descripcion": "Promueve y protege la salud, vigilando hábitos saludables en la sociedad"
+    },
+    {
+        "especializacion": "Cirugía Cardiovascular",
+        "descripcion": "Se encarga del sistema circulatorio, especialmente del corazón y los vasos sanguíneos"
+    },
+    {
+        "especializacion": "Cirugía General",
+        "descripcion": "Interviene en el aparato digestivo"
+    },
+    {
+        "especializacion": "Cirugía Ortopédica y Traumatología",
+        "descripcion": "Problemas relacionados con enfermedades y trastornos en el aparato locomotor"
+    },
+    {
+        "especializacion": "Cirugía Pediátrica",
+        "descripcion": "Especializada en enfermedades y problemas médicos en fetos, infantes, niños, adolescentes y adultos jóvenes"
+    },
+    {
+        "especializacion": "Cirugía Torácica",
+        "descripcion": "Estudia e interviene quirúrgicamente problemas en el tórax"
+    },
+    {
+        "especializacion": "Neurocirugía",
+        "descripcion": "Manejo quirúrgico de enfermedades que afectan al sistema nervioso central, periférico y autónomo"
+    },
+    {
+        "especializacion": "Angiología y Cirugía Vascular",
+        "descripcion": "Diagnóstico y tratamiento de enfermedades exclusivamente vasculares"
+    },
+    {
+        "especializacion": "Dermatología",
+        "descripcion": "Estudio y tratamiento de problemas en la piel"
+    },
+    {
+        "especializacion": "Analisis clinicos",
+        "descripcion": "Se encarga de confirmar o descartar las hipotesis formuladas durante el diagnostico de enfermedades mediante el analisis de fluido o tejido del paciente"
+    },
+    {
+        "especializacion": "Bioquimica clinica",
+        "descripcion": "Estudia las propiedades bioquimicas de sustancias tanto in vitro como in vivo con el fin de ofrecer informacion para la prevencion, diagnostico, pronostico y tratamiento de desordenes medicos"
+    },
+    {
+        "especializacion": "Farmacologia clinica",
+        "descripcion": "Estudia las propiedades de los farmacos, su mecanismo de accion, accion terapeutica, efectos secundarios, indicaciones, entre otros aspectos"
+    },
+    {
+        "especializacion": "Genetica medica",
+        "descripcion": "Aplicacion de los conocimientos de genetica en medicina para explicar los trastornos de origen hereditario y como intervenir farmacologicamente segun el genotipo del paciente"
+    },
+    {
+        "especializacion": "Inmunologia",
+        "descripcion": "Se ocupa del estudio del sistema inmunologico"
+    }
+]

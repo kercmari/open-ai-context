@@ -1,0 +1,7 @@
+openai==0.28
+spacy
+transformers
+pandas
+scipy==1.9.3
+torch
+gensim
