@@ -1,7 +1,7 @@
 import openai
 
 def filter_with_gpt3(texts, question, role, model_name='gpt-3.5-turbo', max_tokens=150, n=1, temperature=0.7):
-    openai.api_key = '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'
+    openai.api_key = ''
     
     context = ' '.join(texts)
     prompt = f"Contexto: {context}\nPregunta: {question}\nRespuesta:"
